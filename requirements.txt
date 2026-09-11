@@ -1,4 +1,4 @@
 Flask>=3.1,<4
-google-genai>=1.71,<2
+groq
 gunicorn>=23,<24
 pytest>=8,<9
